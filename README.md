@@ -1,1 +1,4 @@
-Feature-B is completed now.
+
+Feature-A is completed now.
+Feature-B is merged.
+
