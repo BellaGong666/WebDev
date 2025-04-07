@@ -1,2 +1,1 @@
-
-invoice is edited.
+invoice is deleted.
